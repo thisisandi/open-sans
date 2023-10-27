@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* шрифт */
+  --font: "Open Sans";
+
+  /* размеры шрифта */
+  --font-size: 90px;
+  --font1-size: 30px;
+  --font2-size: 700px;
+
+  /* цвета */
+  --color-white: #fff;
+  --color-yellow: #ffe177;
+  --color-purple: #d38aff;
+  --color-blue: #61caff;
+  --color-pink: #ff72a5;
+  --color-black: #000;
+
+  /* радиусы границ */
+  --br-8xs: 5px;
+  --br-81xl: 100px;
+  --br-31xl: 50px;
+  --br-11xl: 30px;
+}
